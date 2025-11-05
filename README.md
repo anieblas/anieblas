@@ -14,12 +14,19 @@
   </a>
 </p>
 
+---
+<div align="center">
+  <img src="https://github-readme-stats-beta-six-69.vercel.app/api?username=anieblas&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=react" height="165" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anieblas&theme=react&no-frame=true&margin-w=10" alt="Trophies" height="130"/>
+</p>
+
+---
 
 
-
-<img src="https://github-readme-stats-beta-six-69.vercel.app/api?username=anieblas&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=react" height="165" />
-
-<img src="https://github-readme-stats-beta-six-69.vercel.app/api/top-langs/?username=anieblas&layout=compact&langs_count=10&hide_border=false&theme=react&count_private=true" height="165" />
-
-
-github-readme-stats-beta-six-69.vercel.app
+<h3 align="center">✨ Thanks for visiting my profile!</h3>
