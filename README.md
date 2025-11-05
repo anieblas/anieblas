@@ -18,15 +18,11 @@
 <div align="center">
   <img src="https://github-readme-stats-beta-six-69.vercel.app/api?username=anieblas&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=react" height="165" />
 
+
+![anieblas's Top Languages](https://github-readme-stats-beta-six-69.vercel.app/api/top-langs/?username=anieblas&theme=react&show_icons=true&hide_border=false&layout=compact)
 </div>
 
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anieblas&theme=react&no-frame=true&margin-w=10" alt="Trophies" height="130"/>
 </p>
-
----
-
-
-<h3 align="center">✨ Thanks for visiting my profile!</h3>
