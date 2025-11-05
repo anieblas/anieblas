@@ -20,6 +20,9 @@
 
 
 ![anieblas's Top Languages](https://github-readme-stats-beta-six-69.vercel.app/api/top-langs/?username=anieblas&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats2-flame.vercel.app?user=anieblas&theme=react" alt="GitHub Streak" /></a>
+
 </div>
 
 
