@@ -27,5 +27,5 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anieblas&theme=react&no-frame=true&margin-w=10" alt="Trophies" height="130"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anieblas&theme=chalk&no-frame=false&column=9&margin-w=15&margin-h=15" alt="Trophies" height="130"/>
 </p>
