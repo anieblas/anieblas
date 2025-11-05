@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">I'm Aliuska Marrero Nieblas</h1>
+<h3 align="center">Engineer in Computer Science</h3>
 
-<!--
-**anieblas/anieblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anieblas">
+    <img src="https://komarev.com/ghpvc/?username=anieblas&color=blueviolet&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/anieblas?tab=followers">
+    <img src="https://img.shields.io/github/followers/anieblas?label=Followers&style=flat&color=ff69b4" alt="Followers" />
+  </a>
+  <a href="https://github.com/anieblas?tab=repositories">
+    <img src="https://img.shields.io/github/stars/anieblas?label=Stars&style=flat&color=yellow" alt="Stars" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://github-readme-stats-beta-six-69.vercel.app/api?username=anieblas&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=react" height="165" />
+
+<img src="https://github-readme-stats-beta-six-69.vercel.app/api/top-langs/?username=anieblas&layout=compact&langs_count=10&hide_border=false&theme=react&count_private=true" height="165" />
+
+
+github-readme-stats-beta-six-69.vercel.app
