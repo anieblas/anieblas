@@ -13,6 +13,22 @@
     <img src="https://img.shields.io/github/stars/anieblas?label=Stars&style=flat&color=yellow" alt="Stars" />
   </a>
 </p>
+<p align="center">
+
+[![English C2 Certified](https://img.shields.io/badge/English-C2%20Proficient-blue?style=flat&logo=googletranslate)](https://www.efset.org/cert/your-certificate-id)
+![Spanish Native](https://img.shields.io/badge/Spanish-Native-red?style=flat&logo=googletranslate)
+
+</p>
+
+<h3 align="center">🗣️ Languages & Certifications</h3>
+<p align="center">
+  <a href="https://www.efset.org/cert/YOUR-ID" target="_blank" title="English C2 Certificate">
+    <img src="https://img.shields.io/badge/English-C2%20Proficient-blue?style=flat&logo=googletranslate" alt="English C2 Certified">
+  </a>
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat&logo=googletranslate" alt="Spanish Native">
+</p>
+
+
 
 ---
 <div align="center">
@@ -33,47 +49,48 @@
   <div align="center">  
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser"></picture>
+      srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser"></picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience"></picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars"></picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories"></picture>
-    <picture>
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Experience&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Experience"></picture>
+     <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage&theme=darkhub">
       <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage"></picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Repositories&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Repositories"></picture>
+    
   <br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture>
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
+        <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues"></picture>
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers"></picture>
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Issues&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Issues"></picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture>
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Followers&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Followers"></picture>
+    <picture>
+      <!-- <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Reviews&theme=darkhub">
+      <img src="https://github-profile-trophy.vercel.app/?username=anieblas&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture> -->
 </div>
+
+---
+
+
+https://cert.efset.org/pLJ7yD
 
 ---
 
@@ -120,5 +137,6 @@ Additional: SpringBoot, Maven, Docker, Odoo
 
 
 ---
+<h3 align="center">Education</h3>
+2004 - 2009 Computer Science Engineer, University of Computer Science
 
-Education
