@@ -1,8 +1,6 @@
 # Aliuska Marrero Nieblas
 
 **Senior Frontend / Full-Stack Engineer** · React · TypeScript · Node.js
-<br>
-Poznań area, Poland · EU citizen · Open to remote roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anieblascv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anieblascv/)
 [![Email](https://img.shields.io/badge/Email-anieblas%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:anieblas@gmail.com)
