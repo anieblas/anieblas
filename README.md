@@ -42,37 +42,3 @@ Outside my day job I design and ship **Saywish**, my own product suite for the S
 | Ongoing | **Creator & Lead Engineer** · Saywish | SaunaFS Navigator & Connect: web console, API and Windows app; React, MUI, Node.js, Electron |
 
 **Education:** Computer Science Engineering, Universidad de las Ciencias Informáticas (UCI), 2009
-
-<details>
-<summary><b>En español</b></summary>
-
-<br>
-
-**Ingeniera de software senior, frontend / full-stack** · React · TypeScript · Node.js
-<br>
-Zona de Poznań, Polonia · Ciudadana de la UE · Disponible para trabajo remoto
-
-Ingeniera de software senior con 17 años de experiencia desarrollando aplicaciones web. Actualmente lidero un equipo de frontend en una plataforma de identidad digital y seguridad. Mi especialidad es React y TypeScript, con experiencia full-stack en Node.js, Express y AWS Lambda.
-
-Fuera de mi trabajo diseño y desarrollo **Saywish**, mi propia suite de productos para el sistema de archivos distribuido SaunaFS: una consola web, una API y una aplicación de escritorio para Windows.
-
-| Años | Puesto | Enfoque |
-|---|---|---|
-| 2024 – hoy | **Ingeniera frontend senior y líder de equipo** · nazaríes intelligenia | Liderazgo del equipo de frontend en una plataforma de identidad digital y seguridad; React, TypeScript, GitLab CI |
-| 2023 – 2024 | **Ingeniera de software senior** · Volkswagen Financial Services | Aplicaciones de servicios financieros de automoción; React, TypeScript, Node.js, AWS Lambda |
-| 2022 | **Desarrolladora frontend y líder de equipo** · Sinterit | Interfaz de la impresora 3D industrial SLS NILS 480; Vue, Docker |
-| 2021 – 2022 | **Ingeniera de software** · LizardFS | Herramientas web y de backend para un sistema de archivos distribuido de código abierto; Vue, React, Express |
-| 2015 – 2022 | **Ingeniera de software freelance** | Proyectos para clientes con Angular, Java, Django, GraphQL y Flutter |
-| 2009 – 2015 | **Desarrolladora full-stack** · DATYS | Plataformas de gestión de vehículos y de estudios sociales; GeneXus, Ruby on Rails |
-| En curso | **Creadora e ingeniera principal** · Saywish | SaunaFS Navigator y Connect: consola web, API y aplicación de Windows; React, MUI, Node.js, Electron |
-
-**Formación:** Ingeniería en Ciencias Informáticas, Universidad de las Ciencias Informáticas (UCI), 2009
-
-</details>
-
-<br>
-
-<p>
-  <img src="https://github-readme-stats-beta-six-69.vercel.app/api?username=anieblas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats-beta-six-69.vercel.app/api/top-langs/?username=anieblas&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages" />
-</p>
